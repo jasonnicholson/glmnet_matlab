@@ -25,4 +25,3 @@ The Glmnet in Matlab is GPL-2 so this must be GPL-2. The main features of GPL-2 
 - all distributed copies (modified or not) carry a copyright notice and exclusion of warranty (Section 1 and 2)
 - all modified copies are distributed under the GPL v2 (Section 2)
 - all compiled versions of the program are accompanied by the relevant source code, or a viable offer to make the relevant source code available (Section 3)
-- 

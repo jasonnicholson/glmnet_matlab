@@ -44,7 +44,7 @@ try
     diary('off')
 
     % create the release
-    zipFileName = fullfile(oldfolder,strcat('MATLAB_', BUILD, ', glmnet_matlab ver_', glmnetVersion,'.zip'));
+    zipFileName = fullfile(oldfolder,strcat('MATLAB ', BUILD, ', glmnet_matlab ver ', glmnetVersion,'.zip'));
     zip(zipFileName,'*');
     
     % go back to the old folder

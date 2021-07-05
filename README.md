@@ -17,7 +17,7 @@ If your Intel compiler isn't official supported by MathWorks, you can modify an 
 
 # License
 GPL-2 
-The Glmnet in Matlab is GPL-2 so this must be GPL-2. The main features of GPL-2 listed below. See `LICENSE.txt` for the exact binding GPL-2 license.
+The Glmnet in Matlab is GPL-2 so this must be GPL-2. The main features of GPL-2 are listed below. See `LICENSE.txt` for the exact GPL-2 license.
 - copy and distribute the program’s unmodified source code (Section 1)
 - modify the program’s source code and distribute the modified source (Section 2)
 - distribute compiled versions of the program, both modified and unmodified (Section 3) provided that:

@@ -1,7 +1,7 @@
 # glmnet_matlab
 glmnet_matlab is a Matlab port for the efficient procedures for fitting the entire lasso or elastic-net path for linear regression, logistic and multinomial regression, Poisson regression, and the Cox model. 
 
-More information ca be found here:
+More information can be found here:
 [https://web.stanford.edu/~hastie/glmnet_matlab/index.html](https://web.stanford.edu/~hastie/glmnet_matlab/index.html)
 
 # Background

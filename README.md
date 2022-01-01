@@ -16,7 +16,8 @@ If you want to build yourself, then you will need an Intel Fortran compiler. Sta
 If your Intel compiler isn't official supported by MathWorks, you can modify an XML compiler configuration to see if your Intel Fortran compiler will work. There are no guarantees that your Intel Fortran compiler will work, but the configuration can be inferred by inspecting an XML compiler configuration file. Start from what is already in the compiler `compiler_configuration` folder. 
 
 # License
-GPL-2 
+GPL-2
+
 The Glmnet in Matlab is GPL-2 so this must be GPL-2. The main features of GPL-2 are listed below. See `LICENSE.txt` for the exact GPL-2 license.
 - copy and distribute the program’s unmodified source code (Section 1)
 - modify the program’s source code and distribute the modified source (Section 2)

@@ -22,7 +22,6 @@ Glmnet in Matlab is GPL-2 so this must be GPL-2. See `LICENSE.txt` for the exact
 - copy and distribute the program’s unmodified source code (Section 1)
 - modify the program’s source code and distribute the modified source (Section 2)
 - distribute compiled versions of the program, both modified and unmodified (Section 3) provided that:
-
-- all distributed copies (modified or not) carry a copyright notice and exclusion of warranty (Section 1 and 2)
-- all modified copies are distributed under the GPL v2 (Section 2)
-- all compiled versions of the program are accompanied by the relevant source code, or a viable offer to make the relevant source code available (Section 3)
+    - all distributed copies (modified or not) carry a copyright notice and exclusion of warranty (Section 1 and 2)
+    - all modified copies are distributed under the GPL v2 (Section 2)
+    - all compiled versions of the program are accompanied by the relevant source code, or a viable offer to make the relevant source code available (Section 3)
